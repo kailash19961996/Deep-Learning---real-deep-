@@ -13,3 +13,7 @@ Used Materials:
   
   Deep Lizard - https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU
   
+  L1 - Building a perceptron in excel
+    <img width="1213" alt="Screenshot 2023-05-18 at 1 20 52 pm" src="https://github.com/kailash19961996/Deep-Learning---real-deep-/assets/123597753/e02d78f7-4fad-4cc0-8881-84669abfeeb3">
+
+  
